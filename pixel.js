@@ -8,8 +8,3 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '274712321540007');
 fbq('track', 'PageView');
-
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=274712321540007&ev=PageView&noscript=1"
-/></noscript>
-
